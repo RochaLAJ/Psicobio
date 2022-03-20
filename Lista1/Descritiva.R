@@ -62,5 +62,5 @@ plot_descriptive <- function(matrix, plot_type, fill, color){
 }
 
 # Usage Example:
-plot_descriptive(continous_vars, plot_type='histogram', fill=hist_fill, color=hist_color)
-plot_descriptive(categorical_vars, plot_type='barplot')
+#plot_descriptive(continous_vars, plot_type='histogram', fill=hist_fill, color=hist_color)
+#plot_descriptive(categorical_vars, plot_type='barplot')
